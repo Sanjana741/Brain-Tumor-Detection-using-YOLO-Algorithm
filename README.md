@@ -17,6 +17,8 @@ The model achieves high accuracy and provides clear visualizations of tumor dete
 
 ## Coronal view
 ![image](https://github.com/user-attachments/assets/ec0465fa-5a9b-4c3d-b299-f50008adb2f9)
+![image](https://github.com/user-attachments/assets/5f8d35a1-efd1-4acc-ad8f-bbd2f35064be)
+
 
 ## Sagittal view
 ![image](https://github.com/user-attachments/assets/34f2bc8f-fa34-41b7-b8fe-5023def6fced)
