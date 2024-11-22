@@ -24,7 +24,6 @@ The model achieves high accuracy and provides clear visualizations of tumor dete
 ## Axial view
 ![image](https://github.com/user-attachments/assets/8fd978f3-e4b4-44d9-8c21-834e6021fb19)
 
-
 ## Final Result
 ![image](https://github.com/user-attachments/assets/d0b7b9f3-9d36-4fc9-997b-f5f251de6ccd)
 
